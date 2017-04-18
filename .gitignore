@@ -1,0 +1,8 @@
+.idea/
+ice_operate_platform_service.iml
+ice-provider/target/
+ice-provider/ice-provider.iml
+ice-interface/target/
+ice-interface/ice-interface.iml
+ice-consumer/target/
+ice-consumer/ice-consumer.iml

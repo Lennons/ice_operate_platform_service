@@ -1,0 +1,1 @@
+docker run  --net='host' --name=ice_operate_platform_service --restart=always -p 7666:8080 -v /home/java/src/ice_operate_platform_service:/home/project -w /home/project -ti -d dockerhub:5000/maven ./run.sh test
